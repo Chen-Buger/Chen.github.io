@@ -1,0 +1,16 @@
+﻿  background.cpp
+  bullet.cpp
+  enemy.cpp
+  enemy0.cpp
+  enemy1.cpp
+  enemy2.cpp
+  gameLoop.cpp
+  hero.cpp
+  image.cpp
+  main.cpp
+  mainScene.cpp
+  menuScene.cpp
+  soundManager.cpp
+  vector.cpp
+  正在生成代码...
+  plane_game_final.vcxproj -> D:\CodeProjects\Visual Studio\plane_game_final\x64\Debug\plane_game_final.exe
